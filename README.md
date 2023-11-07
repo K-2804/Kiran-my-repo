@@ -19,7 +19,7 @@ The dataset used for this project should be placed in the `/data` directory. It 
 
 # Running the Code
 1. Clone this repository to your local machine:
-git clonehttps://github.com/Hareesh-5/Hareesh_myrep.git
+git clonehttps://github.com/K-2804/Kiran-my-repo.git
 2. Prepare the data:
    - Place the required data files in the `electicity_price_data` directory.
 3. Run the Jupyter Notebook:
